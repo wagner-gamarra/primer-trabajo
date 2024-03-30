@@ -6,3 +6,6 @@
 
 4. cuatro
 5. cinco
+
+6. seis
+7. siete
